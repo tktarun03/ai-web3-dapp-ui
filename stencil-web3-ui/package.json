@@ -1,0 +1,12 @@
+{
+    "name": "stencil-web3-ui",
+    "version": "1.0.0",
+    "dependencies": {
+        "@stencil/core": "^2.15.0",
+        "web3": "^1.7.4"
+    },
+    "scripts": {
+        "build": "stencil build",
+        "start": "stencil build --dev --watch"
+    }
+}
